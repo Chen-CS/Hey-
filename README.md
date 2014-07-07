@@ -1,4 +1,5 @@
 Hey-
 ====
 
-My first repository
+My first repository!
+Work hard and work smart.
